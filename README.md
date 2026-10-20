@@ -10,12 +10,12 @@ To break the curse and escape, you must explore the mansion, inspect hidden file
 - pwd — Shows your current exact path in the mansion
 - ls — Look around the current directory
 - ls -a — Find hidden files (. files)
-- cd <folder> — Move deeper into a room or item
+- cd folder — Move deeper into a room or item
 - cd .. — Move up one directory level
 - cd ../.. — Move up two directory levels
-- cat <file> — Read a file or clue
-- mv <source> <destination> — Move or rename an item
-- rm <file> — Delete/destroy cursed items
+- cat file — Read a file or clue
+- mv source <destination> — Move or rename an item
+- rm file — Delete/destroy cursed items
 
 ---
 
